@@ -1,0 +1,29 @@
+/*Global styles
+----------------------------*/
+
+body {
+    background: #AF3B5D;
+}
+
+/*Header and Footer styles
+----------------------------*/
+
+header, footer{
+    background: #180036;
+    color: lavender;
+}
+
+
+/*Work Experience styles
+----------------------------*/
+.work {
+    background: #642849;
+}
+
+/*Education styles
+----------------------------*/
+
+.education {
+    background: #FFC1AA;
+    
+}
